@@ -17,9 +17,9 @@ author:
   email: your-email@email.com # email adress
 
 # URL settings
-url: "https://powex.ml" #
-baseurl: "/Gesko" # leave blank if not wishd
-permalink: "https://powex.ml/Gesko/"
+url: "https://pankace.github.io" #
+baseurl: "/violet-rabbit-v2" # leave blank if not wishd
+permalink: "https://pankace.github.io/violet-rabbit-v2/"
 permalink: pretty 
 
 
