@@ -5,7 +5,15 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async src=""></script>
+ <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag() { dataLayer.push(arguments); }
+   gtag('js', new Date());
 
+   gtag('', '');
+ </script>
 
 
 <body>
@@ -57,7 +65,7 @@ layout: compress
       rel="noopener noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>
     <a href="{{site.url}}/atom.xml" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
         class="fa fa-rss" aria-hidden="true"></i></a>
-    <a href="https://github.com/pankace/violet-rabbit-v2" title="Browse the code ? you might find something usefull" target="_blank" rel="noopener noreferrer"><i
+    <a href="https://github.com/pankace/violet-rabbit-v2" title="Browse the code ? might find something usefull" target="_blank" rel="noopener noreferrer"><i
         class="fa fa-code" aria-hidden="true"></i></a>
   </div>
 </footer>
