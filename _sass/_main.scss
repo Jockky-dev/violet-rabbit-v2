@@ -81,13 +81,13 @@ html[data-theme="light"] {
 			position: absolute;
 			top: 50%;
 			left: 50%;
-			box-shadow: 0 -23px 0 var(--theme-ui-colors-toggleIcon, #2d3748),
-				0 23px 0 var(--theme-ui-colors-toggleIcon, #2d3748), 23px 0 0 var(--theme-ui-colors-toggleIcon, #2d3748),
-				-23px 0 0 var(--theme-ui-colors-toggleIcon, #2d3748),
-				15px 15px 0 var(--theme-ui-colors-toggleIcon, #2d3748),
-				-15px 15px 0 var(--theme-ui-colors-toggleIcon, #2d3748),
-				15px -15px 0 var(--theme-ui-colors-toggleIcon, #2d3748),
-				-15px -15px 0 var(--theme-ui-colors-toggleIcon, #2d3748);
+			box-shadow: 0 -23px 0 var(--theme-ui-colors-toggleIcon, #000000),
+				0 23px 0 var(--theme-ui-colors-toggleIcon, #000000), 23px 0 0 var(--theme-ui-colors-toggleIcon, #000000),
+				-23px 0 0 var(--theme-ui-colors-toggleIcon, #000000),
+				15px 15px 0 var(--theme-ui-colors-toggleIcon, #000000),
+				-15px 15px 0 var(--theme-ui-colors-toggleIcon, #000000),
+				15px -15px 0 var(--theme-ui-colors-toggleIcon, #000000),
+				-15px -15px 0 var(--theme-ui-colors-toggleIcon, #000000);
 			transform: scale(0);
 			transition: all 0.35s ease 0s;
 		}
@@ -95,9 +95,9 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-	--very-light-text-color: #EEE;
-	--light-text-color: #c4bbf0;
-	--medium-text-color: #52057b;
+	--very-light-text-color: #00ff2a;
+	--light-text-color: #00ff2a;
+	--medium-text-color: #00ff2a;
 	--main-text-color: #EAEAEA;
 	--dark-text-color: rgb(36, 38, 42);
 	--link-color: rgb(255, 89, 125);
