@@ -1,26 +1,26 @@
-site: Gesko
-title: Gesko
+site: SHT-V
+title: SHT-V
 description: >-
-  just a minimalist, personal blog
+  just a CTF
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Thailand
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/pankace/violet-rabbit-v2 # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
-author:
-  name: p0wex
-  bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
+author: 
+  name: admin
+  bio: Is there a flag here ?
+  username: admin # general username
+  github:  # github username
+  twitter:  # twitter username
   email: your-email@email.com # email adress
 
 # URL settings
 url: "https://pankace.github.io" #
-baseurl: "/violet-rabbit-v2" # leave blank if not wishd
+baseurl: "/violet-rabbit-v2" # leave blank if not wish
 permalink: "https://pankace.github.io/violet-rabbit-v2/"
-permalink: pretty 
+
 
 
 markdown: kramdown
@@ -57,7 +57,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:slug
   
 defaults:
   -
