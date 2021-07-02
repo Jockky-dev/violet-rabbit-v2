@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Places where you can learn how to code
-description: There many different options to learn to code online, so in this article, find places you can learn to code
-summary: Options to learn to code online.
-tags: coding
+title: Python hacks you may not know
+description: In this challenge there are many relatively easy challenges this is not one of them, this is a semi to advanced level challenge 
+summary: In this challenge there are many relatively easy challenges this is not one of them, this is a semi to advanced level challenge 
+tags: Reverse engineering 
 minute: 1
 ---
 
