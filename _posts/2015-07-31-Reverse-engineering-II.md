@@ -6,3 +6,12 @@ summary: In this challenge there are many relatively easy challenges this is not
 tags: Reverse engineering 
 minute: 1
 ---
+
+
+
+```c
+int main (){
+	int hello = 3;
+	char world = 'w';
+}
+```
