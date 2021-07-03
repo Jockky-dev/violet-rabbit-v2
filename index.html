@@ -41,10 +41,18 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
+            <div class="bio">
+             There is only one image on this page of the site it may contain the flag you may want to find it as this is the
+             easiest flag. 
+             </p>
+            </div>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
         {% endfor %}
     </ul>
 </section>
+
+
+
 -->
