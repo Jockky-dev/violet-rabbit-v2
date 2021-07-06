@@ -12,8 +12,9 @@ minute: 1
 [download the challenge files](https://pankace.github.io/violet-rabbit-v2/files//Reverse-engineering-II//sketch_jul02a.ino.standard.hex)
 
 
+This table might help you decode the messuage in the file  
 ```cpp
-'A';  = String(".-");
+'A'; = String(".-");
 'B'; = String("-...");
 'C'; = String("-.-.");
 'D'; = String("-..");
@@ -42,3 +43,5 @@ minute: 1
 '0'; = String("-----");
 
 ```
+
+
