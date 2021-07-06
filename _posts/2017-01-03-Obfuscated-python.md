@@ -6,3 +6,4 @@ summary: Using data folder to build Jekyll navigation.
 tags: coding jekyll
 minute: 1
 ---
+
