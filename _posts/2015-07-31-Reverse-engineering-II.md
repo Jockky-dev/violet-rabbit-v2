@@ -12,7 +12,8 @@ minute: 1
 [download the challenge files](https://pankace.github.io/violet-rabbit-v2/files//Reverse-engineering-II//sketch_jul02a.ino.standard.hex)
 
 
-This table might help you decode the messuage in the file  
+This table might help you decode the messuage in the file 
+Note that doing Reverse-engineering-I might yield clues as to how to solve the challenge  
 ```cpp
 'A'; = String(".-");
 'B'; = String("-...");
