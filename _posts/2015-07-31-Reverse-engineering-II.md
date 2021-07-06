@@ -14,6 +14,16 @@ We have lost contact with a space craft. This is it's commination controller fil
 This table might help you decode the messuage in the file 
 Note that doing Reverse-engineering-I might yield clues as to how to solve the challenge  
 
+
+```py
+#examples of formatting of I-hex
+Address: 013016 = 30410
+Byte count: 1016 = 1610
+Record type: 0016 = Data
+Checksum: C716
+Calculated checksum: C716
+```
+
 ```cpp
 'A'; = String(".-");
 'B'; = String("-...");
