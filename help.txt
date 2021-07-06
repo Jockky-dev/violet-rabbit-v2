@@ -1,0 +1,10 @@
+http://split-code.com/index.html
+http://matrixstorm.com/avr/hextobin/ihexconverter.html
+https://www.felixcloutier.com/x86/pshufb
+https://www.seoptimer.com/seo-crawler/
+http://thanat0s.trollprod.org/2014/01/loader-un-binaire-arduino-dans-ida/
+https://en.wikipedia.org/wiki/Atmel_AVR_instruction_set
+https://github.com/Riscure/Rhme-2016
+https://www.programiz.com/c-programming/library-function/ctype.h/isalpha
+
+
