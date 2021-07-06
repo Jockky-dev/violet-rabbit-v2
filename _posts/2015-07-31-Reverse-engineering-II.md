@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reverse engineering II a harder challenge 
+title: Reverse engineering II angar
 description: remorse.ino.hex
 summary: remorse.ino.hex 
 tags: Reverse-engineering 
@@ -9,12 +9,36 @@ minute: 1
 
 
 
-[download](https://pankace.github.io/violet-rabbit-v2/files//Reverse-engineering-II//sketch_jul02a.ino.standard.hex)
+[download the challenge files](https://pankace.github.io/violet-rabbit-v2/files//Reverse-engineering-II//sketch_jul02a.ino.standard.hex)
 
-```c
-int main (){
-	int hello = 3;
-	char world = 'w';
-}
+
+```cpp
+'A';  = String(".-");
+'B'; = String("-...");
+'C'; = String("-.-.");
+'D'; = String("-..");
+'E'; = String(".");
+'F'; = String("..-.");
+'G'; = String("--.");
+'H'; = String("....");
+'I'; = String("..");
+'J'; = String(".---");
+'K'; = String("-.-");
+'L'; = String(".-..");
+'M'; = String("--");
+'N'; = String("-.");
+'O'; = String("---");
+'P'; = String(".--.");
+'Q'; = String("--.-");
+'R'; = String(".-.");
+'S'; = String("...");
+'T'; = String("-");
+'U'; = String("..-");
+'V'; = String("...-");
+'W'; = String(".--");
+'X'; = String("-..-");
+'Y'; = String("-.--");
+'Z'; = String("--..");
+'0'; = String("-----");
+
 ```
-
