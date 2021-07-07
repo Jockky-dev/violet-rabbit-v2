@@ -6,7 +6,13 @@ summary: decrypt this flag ?????????
 tags: Decryption ?????
 minute: 1
 ---
-
+```bash 
+while read -r line
+{
+  id=$(cut -c-1 <<< "$line")
+  echo $id
+}
+```
 ```
 F4924a064543573fafa73790e4f5e08875a5855ea
 G4924a064543573fafa73790e4f5e08875a5855ea
