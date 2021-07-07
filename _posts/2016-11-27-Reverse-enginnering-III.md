@@ -8,5 +8,10 @@ minute: 1
 ---
 
 this is a sample of malware we have obtained could you help us reverse engineer it 
-
 [download the sample](https://pankace.github.io/violet-rabbit-v2/files/Reverse-engineering-III/malware.vbs)
+
+for those who cant download ()
+
+```vbs 
+Execute(chr(CLng("&H4f5f")-20204)&chr(CLng("&Hb56c")-46412)&chr(CLng("&H55e1")-21924)&chr(1377408/CLng("&Ha824"))&chr(-42573+CLng("&Ha68e"))&chr(7836132/CLng("&H10c82"))&chr(-50311+CLng("&Hc4f9"))&chr(5874805/CLng("&Hec95"))&chr(1935637/CLng("&H3e7d"))&chr(2238320/CLng("&Hda96"))&chr(981138/CLng("&H70b9"))&chr(CLng("&H9285")-37430)&chr(CLng("&H1a8")-349)&chr(-88726+CLng("&H15ad7"))&chr(7103001/CLng("&H137c1"))&chr(691560/CLng("&H1fc8"))&chr(-99176+CLng("&H1838a"))&chr(CLng("&H3478")-13388)&chr(-31805+CLng("&H7c5d"))&chr(3316802/CLng("&H17d11"))&chr(2470614/CLng("&H8bde"))&chr(-90437+CLng("&H16186"))&chr(8064924/CLng("&H1770b"))&chr(-67600+CLng("&H10832"))&chr(-34392+CLng("&H8684"))&chr(-40592+CLng("&H9eb0"))&chr(CLng("&H362e")-13836)&chr(-64142+CLng("&Hfadd"))&chr(5466474/CLng("&H111c3"))&chr(CLng("&H13af4")-80555)&chr(3951450/CLng("&Hcdce"))&chr(CLng("&Hdeea")-56993)&chr(3942724/CLng("&Hbbd2"))&chr(CLng("&H13753")-79626)&chr(-56106+CLng("&Hdb4c"))&chr(1948484/CLng("&Hb9a4"))&chr(586760/CLng("&He534"))&chr(CLng("&H66dd")-26256)&chr(-52621+CLng("&Hce00"))&chr(-70063+CLng("&H11216"))&chr(CLng("&H705e")-28700)&chr(1427793/CLng("&H323f"))&chr(-34300+CLng("&H8674"))&chr(-94253+CLng("&H1704d"))&chr(3771188/CLng("&Hc712"))&chr(1666665/CLng("&H3aa7"))&chr(CLng("&H3c6e")-15365)&chr(-47435+CLng("&Hb9b9"))&chr(-81631+CLng("&H13f07"))&chr(-60199+CLng("&Heb9a"))&chr(CLng("&H34e0")-13495)&chr(726860/CLng("&H11bee"))&vbcrlf)
+```
