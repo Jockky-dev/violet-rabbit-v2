@@ -13,7 +13,7 @@ while read -r line
   echo $id
 }
 ```
-13
+
 ```
 F4924a064543573fafa73790e4f5e08875a5855ea
 G4924a064543573fafa73790e4f5e08875a5855ea

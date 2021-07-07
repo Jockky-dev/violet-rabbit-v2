@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Reverse engineering-III jumping 
-description:  what is a avr after all 
-summary:  what is an avr after all 
+description:  what is a a lice virus after all 
+summary: what is a a lice virus after all 
 tags: Reverse-engineering 
 minute: 1
 ---
 
+this is a sample of malware we have obtained could you help us reverse engineer it 
 
-We really need to read this avr 
+[download the sample](https://pankace.github.io/violet-rabbit-v2/files//Reverse-engineering-II//sketch_jul02a.ino.standard.hex)

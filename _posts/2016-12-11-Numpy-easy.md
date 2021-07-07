@@ -6,3 +6,4 @@ summary: Schema.org structured data helps you to highlight specific information 
 tag: seo
 minute: 2
 ---
+
