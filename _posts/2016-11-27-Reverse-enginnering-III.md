@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Reverse engineering-II jumping 
-description:  what is a a lice virus after all 
-summary: what is a a lice virus after all 
+description:  what is a a live virus after all 
+summary: what is a a live virus after all 
 tags: Reverse-engineering 
 minute: 1
 ---

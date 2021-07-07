@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creating navigation menu in Jekyll
-description: Using data folder to build Jekyll navigation
-summary: Using data folder to build Jekyll navigation.
-tags: coding jekyll
+title: coded while drunk ~admin
+description: coded while drunk ~admin
+summary: what tf is this python
+tags: Python
 minute: 1
 ---
 
