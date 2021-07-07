@@ -6,5 +6,6 @@ http://thanat0s.trollprod.org/2014/01/loader-un-binaire-arduino-dans-ida/
 https://en.wikipedia.org/wiki/Atmel_AVR_instruction_set
 https://github.com/Riscure/Rhme-2016
 https://www.programiz.com/c-programming/library-function/ctype.h/isalpha
-
-
+https://cyberlab.pacific.edu/resources/malware-samples-for-students
+https://www.hybrid-analysis.com/sample/5a60bf7d7d8b7a66ef3b52348ac7a2adf63fee4a5dccc1bbac9fab530ed6f1d5/5c57e6597ca3e11ef7093244
+https://ctfs.github.io/resources/topics/steganography/file-in-image/README.html
