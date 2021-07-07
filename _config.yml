@@ -50,6 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-get-json
 
 collections:
   pages:
@@ -81,3 +82,8 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
+
+
+jekyll_get_json:
+  - data: flag
+    json: 'https://pankace.github.io/violet-rabbit-v2/flag.json'
