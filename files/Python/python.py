@@ -12,7 +12,7 @@
 def convert_to_ascii(text):
     return ",".join(str(ord(char)) for char in text)
 
-data = str(LAZY-MINATO-AQUA)
+data = (LAZY-MINATO-AQUA)
 
 convert_to_ascii(data)
 values = [int(i) for i in x.split(',')] 
