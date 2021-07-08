@@ -3,7 +3,7 @@ layout: post
 title: what's this code, fastest one wins :) 
 description: What's this file 
 summary: What's this file
-tags: 
+tags: easy
 minute: 1
 ---
 

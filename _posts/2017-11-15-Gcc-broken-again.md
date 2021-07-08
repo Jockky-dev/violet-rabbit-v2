@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Custom 404 page for Jekyll on Github pages
-description: Serve custom 404 error pages with Jekyll
-summary: Serve custom 404 error pages with Jekyll.
-tags: jekyll coding
+title: Fixing GCC
+description: GCC outputted this error file fix the program and get the flag 
+summary: GCC outputted this error file fix the program and get the flag 
+tags: easy
 minute: 1
 ---
 
