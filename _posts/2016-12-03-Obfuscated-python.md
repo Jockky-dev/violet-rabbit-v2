@@ -6,4 +6,3 @@ summary: what tf is this python
 tags: Python
 minute: 1
 ---
-
