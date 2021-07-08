@@ -17,6 +17,6 @@ the broken file "OR" is it -X
 w = 'the bRoken file Or is it an eXample can be found somewhere'
 r = re.findall('([A-Z])', word)
 r
-[? something this is the output of the program]
+[? something this is the output of the program.txt]
 ```
 [download?](https://pankace.github.io/violet-rabbit-v2/files/broken-GCC/download.dat)<br>
