@@ -1,2 +1,2 @@
 import numpy as np
-s = np.random.seed(6995808)
+np.random.seed(6995808)
