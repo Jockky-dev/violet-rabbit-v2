@@ -7,3 +7,4 @@ tag: python
 minute: 2
 ---
 
+seed = 

@@ -2,23 +2,15 @@
 layout: post
 title: coded while drunk ~admin
 description: coded while drunk ~admin
-summary: what tf is this python
+summary: what tf is this, this is an enigma 
 tags: Python
 minute: 1
 ---
-
-```python
-# Puzzle 2
-def encrypt(s1):
-    s2 = map(lambda c : chr(ord(c) + 2), s1)
-    return ''.join(s2)
+ what tf is this, this is an enigma 
+So I was at the bar the other day ..... uh i forgot shit 
+uhhhh 
 
 
-def decrypt(s1):
-    s2 = map(lambda c : chr(ord(c) - 2), s1)
-    return ''.join(s2)
-
-
-s = "xtherussiansarecomingx"
-print(decrypt(encrypt(encrypt(s)))==encrypt(s))
-```
+oh files <br>
+[python?](https://pankace.github.io/violet-rabbit-v2/files/Python/drunk.py)<br>
+[]()
