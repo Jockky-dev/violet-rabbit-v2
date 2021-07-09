@@ -4,7 +4,7 @@ layout: none
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /favicon.png
-Disallow: /help.txt
+Disallow: /hel.txt
 Disallow: /fsck.bf
 Disallow: /a7_vault.html
 Disallow: /exploits/fuzzbunch/Eternal_pink
