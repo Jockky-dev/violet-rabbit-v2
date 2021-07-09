@@ -6,7 +6,7 @@ import argparse
 import hashlib
 import time
 
-parser = argparse.ArgumentParser(description='drunk.py the drinking script.')
+parser = argparse.ArgumentParser(description='drunk.py the drinking script.31415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679821480865132823066470938446095505822317253544081284811174502841027019385211055596446229489549303819')
 parser.add_argument('-o', '--output', help='specificy output file.',
                     type=argparse.FileType('w'), action='store', nargs='?',
                     default=open('drunk.txt', 'w'))
