@@ -2,11 +2,15 @@
 layout: post
 title: coded while drunk ~admin
 description: coded while drunk ~admin
-summary: what tf is this, this is an enigma 
+summary: what tf is this, this enigma ?
 tags: Python
 minute: 1
 ---
- what tf is this, this is an enigma 
+```
+#author https://github.com/ImSoZRious
+``` 
+<br>
+what tf is this, this enigma?
 So I was at the bar the other day ..... uh i forgot shit 
 uhhhh wtf
 

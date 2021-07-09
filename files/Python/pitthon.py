@@ -1,3 +1,5 @@
+#author https://github.com/ImSoZRious
+
 charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+[]{}/\\|"
 
 def charadd(c, x):

@@ -7,7 +7,7 @@ tag: python
 minute: 2
 ---
 the seed of this is missing one digit could you help us brute force it 
-seed = ```6256.....``` <br>
+<br> seed = ```6256.....``` <br>
 
 str in hex 
 [str](https://pankace.github.io/violet-rabbit-v2/files/numpy/rng.txt)

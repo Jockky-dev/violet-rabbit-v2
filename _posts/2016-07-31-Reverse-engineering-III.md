@@ -23,6 +23,7 @@ Record type: 0016 = Data
 Checksum: C716
 Calculated checksum: C716
 ```
+some strings that might help you 
 
 ```cpp
 'A'; = String(".-");
