@@ -10,4 +10,4 @@ seed is missing one digit could you help us bruit force it
 seed = ```6256.....```
 str is hex 
 
-(str)[https://pankace.github.io/violet-rabbit-v2/files/numpy/rng.txt]
+[str](https://pankace.github.io/violet-rabbit-v2/files/numpy/rng.txt)
