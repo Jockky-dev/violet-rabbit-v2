@@ -40,4 +40,4 @@ print(output)
 
 <br>
 [python?](https://pankace.github.io/violet-rabbit-v2/files/Python/pitthon.py)<br>
-[meme files these will slow your computer down](https://pankace.github.io/violet-rabbit-v2/files/Python/drunk.py)
+[since this is too hard here is the key](https://pankace.github.io/violet-rabbit-v2/files/Python/drunk.py)
