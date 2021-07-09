@@ -7,8 +7,14 @@ tags: easy
 minute: 1
 ---
 
-this is an expertise in analysis of pcap files hope you have fun  
-you might need wiresha
+this is an expertise in analysis of vtubers hope you have fun  
 rk for this. yo 
-
-[the pcap]()
+curling 
+in escalating difficulty 
+name of each of the ..... 
+``` bash 
+curl -s -k D9@CEFC=]2E^?vy+f 
+curl -s -k 2RRNQv^^T:PRS5=W@SRS69P]05?8@>]7@>^U:<:^%@<:?@3$@P5
+curl -s -k F8847i^^736??44]A3K^;CJA3KC 
+```
+ 
