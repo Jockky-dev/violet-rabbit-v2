@@ -10,3 +10,4 @@ https://cyberlab.pacific.edu/resources/malware-samples-for-students
 https://www.hybrid-analysis.com/sample/5a60bf7d7d8b7a66ef3b52348ac7a2adf63fee4a5dccc1bbac9fab530ed6f1d5/5c57e6597ca3e11ef7093244
 https://ctfs.github.io/resources/topics/steganography/file-in-image/README.html
 https://gchq.github.io/CyberChef/#recipe=XOR(%7B'option':'Hex','string':'58535fe5'%7D,'Input%20differential',false)&input=TEFaWS1NSU5BVE8tQVFVQQ
+        <A HREF = "https://www.eventpop.me/e/11387">Redeem flags here</A>
